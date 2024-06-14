@@ -45,12 +45,13 @@ body{
 .p1{
     background-color: transparent;
     font-weight: bold;
-    font-size: 23px;
     text-align: center;
     flex: 1;
+    font-size: 22px;
     margin-top: 25px;
     color:#1F314F;
     width: 288px;
+    height: 56px;
 }
 
 .p2{
