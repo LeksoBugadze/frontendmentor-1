@@ -1,2 +1,0 @@
-# frontendmentor-1
- 
